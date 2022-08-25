@@ -1,0 +1,221 @@
+<div class="uitvoering-group">
+	<h2>Benzine</h2>
+
+	<table>
+		<thead>
+			<tr>
+				<th class="uitvoering-cell">Uitvoering</th>
+				<th class="prijs-cell">Prijs</th>
+				<th class="lease-prijs-cell">Leaseprijs</th>
+				<th class="vergelijk-cell">Vergelijk</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="uitvoering" data-bijtellings-percentage="22" data-brandstof-etiket="C" data-transmissie=""
+				data-brandstof-code="l" data-motor="2.0gme l 148 kW" data-uitvoering-soort="super aut"
+				data-lease-prijs="646" data-co2-uitstoot="158" data-gemiddeld-verbruik="0" data-brandstof-etiket="C"
+				data-auto-prijs="47270" data-acceleratie="0" data-vermogen-kilowatt="148" data-lease-prijs="646">
+				<td class="uitvoering-cell">
+					<a href="https://auto.hiltermannlease.nl/configurator/uitvoering/info/4261879/alfa-romeo-giulia-(4-deurs)-2.0gme-super-aut-148-kw/"
+						class="info-link">Info</a>
+					<a href="https://auto.hiltermannlease.nl/configurator/configuratie/online-calculeren/4261879/alfa-romeo-giulia-(4-deurs)-2.0gme-super-aut-148-kw/"
+						class="uitvoering-link">
+						<span class="merk-naam">Alfa Romeo</span>
+						<span class="model-naam">Giulia</span>
+						<span class="deuren">(4-deurs)</span>
+						<span class="oud-model"></span>
+						<span class="motor">2.0gme</span>
+						<span class="uitvoering-naam">super aut</span>
+						<span class="vermogen-kilowatt">148 kW</span>
+					</a>
+				</td>
+				<td class="prijs-cell">€ 47.270,-</td>
+				<td class="lease-prijs-cell">€ 646,-</td>
+				<td class="vergelijk-cell">
+					<label>
+                            <input type="checkbox" name="paUitvoeringIdList[]" value="4261879" />
+                            <div class="checkbox"></div>
+                        </label>
+				</td>
+			</tr>
+			<tr class="uitvoering" data-bijtellings-percentage="22" data-brandstof-etiket="C" data-transmissie=""
+				data-brandstof-code="l" data-motor="2.0gme l 148 kW" data-uitvoering-soort="sprint aut"
+				data-lease-prijs="676" data-co2-uitstoot="160" data-gemiddeld-verbruik="0" data-brandstof-etiket="C"
+				data-auto-prijs="50770" data-acceleratie="0" data-vermogen-kilowatt="148" data-lease-prijs="676">
+				<td class="uitvoering-cell">
+					<a href="https://auto.hiltermannlease.nl/configurator/uitvoering/info/4261880/alfa-romeo-giulia-(4-deurs)-2.0gme-sprint-aut-148-kw/"
+						class="info-link">Info</a>
+					<a href="https://auto.hiltermannlease.nl/configurator/configuratie/online-calculeren/4261880/alfa-romeo-giulia-(4-deurs)-2.0gme-sprint-aut-148-kw/"
+						class="uitvoering-link">
+						<span class="merk-naam">Alfa Romeo</span>
+						<span class="model-naam">Giulia</span>
+						<span class="deuren">(4-deurs)</span>
+						<span class="oud-model"></span>
+						<span class="motor">2.0gme</span>
+						<span class="uitvoering-naam">sprint aut </span>
+						<span class="vermogen-kilowatt">148 kW</span>
+					</a>
+				</td>
+				<td class="prijs-cell">€ 50.770,-</td>
+				<td class="lease-prijs-cell">€ 676,-</td>
+				<td class="vergelijk-cell">
+					<label>
+                            <input type="checkbox" name="paUitvoeringIdList[]" value="4261880" />
+                            <div class="checkbox"></div>
+                        </label>
+				</td>
+			</tr>
+			<tr class="uitvoering" data-bijtellings-percentage="22" data-brandstof-etiket="C" data-transmissie=""
+				data-brandstof-code="l" data-motor="2.0gme l 148 kW" data-uitvoering-soort="ti aut"
+				data-lease-prijs="705" data-co2-uitstoot="160" data-gemiddeld-verbruik="0" data-brandstof-etiket="C"
+				data-auto-prijs="53270" data-acceleratie="0" data-vermogen-kilowatt="148" data-lease-prijs="705">
+				<td class="uitvoering-cell">
+					<a href="https://auto.hiltermannlease.nl/configurator/uitvoering/info/4261881/alfa-romeo-giulia-(4-deurs)-2.0gme-ti-aut-148-kw/"
+						class="info-link">Info</a>
+					<a href="https://auto.hiltermannlease.nl/configurator/configuratie/online-calculeren/4261881/alfa-romeo-giulia-(4-deurs)-2.0gme-ti-aut-148-kw/"
+						class="uitvoering-link">
+						<span class="merk-naam">Alfa Romeo</span>
+						<span class="model-naam">Giulia</span>
+						<span class="deuren">(4-deurs)</span>
+						<span class="oud-model"></span>
+						<span class="motor">2.0gme</span>
+						<span class="uitvoering-naam">ti aut</span>
+						<span class="vermogen-kilowatt">148 kW</span>
+					</a>
+				</td>
+				<td class="prijs-cell">€ 53.270,-</td>
+				<td class="lease-prijs-cell">€ 705,-</td>
+				<td class="vergelijk-cell">
+					<label>
+                            <input type="checkbox" name="paUitvoeringIdList[]" value="4261881" />
+                            <div class="checkbox"></div>
+                        </label>
+				</td>
+			</tr>
+			<tr class="uitvoering" data-bijtellings-percentage="22" data-brandstof-etiket="C" data-transmissie=""
+				data-brandstof-code="l" data-motor="2.0gme l 206 kW" data-uitvoering-soort="veloce aut"
+				data-lease-prijs="755" data-co2-uitstoot="163" data-gemiddeld-verbruik="0" data-brandstof-etiket="C"
+				data-auto-prijs="55770" data-acceleratie="0" data-vermogen-kilowatt="206" data-lease-prijs="755">
+				<td class="uitvoering-cell">
+					<a href="https://auto.hiltermannlease.nl/configurator/uitvoering/info/4261882/alfa-romeo-giulia-(4-deurs)-2.0gme-veloce-aut-206-kw/"
+						class="info-link">Info</a>
+					<a href="https://auto.hiltermannlease.nl/configurator/configuratie/online-calculeren/4261882/alfa-romeo-giulia-(4-deurs)-2.0gme-veloce-aut-206-kw/"
+						class="uitvoering-link">
+						<span class="merk-naam">Alfa Romeo</span>
+						<span class="model-naam">Giulia</span>
+						<span class="deuren">(4-deurs)</span>
+						<span class="oud-model"></span>
+						<span class="motor">2.0gme</span>
+						<span class="uitvoering-naam">veloce aut</span>
+						<span class="vermogen-kilowatt">206 kW</span>
+					</a>
+				</td>
+				<td class="prijs-cell">€ 55.770,-</td>
+				<td class="lease-prijs-cell">€ 755,-</td>
+				<td class="vergelijk-cell">
+					<label>
+                            <input type="checkbox" name="paUitvoeringIdList[]" value="4261882" />
+                            <div class="checkbox"></div>
+                        </label>
+				</td>
+			</tr>
+			<tr class="uitvoering" data-bijtellings-percentage="22" data-brandstof-etiket="D" data-transmissie=""
+				data-brandstof-code="l" data-motor="2.0gme l 206 kW" data-uitvoering-soort="veloce awd aut"
+				data-lease-prijs="850" data-co2-uitstoot="176" data-gemiddeld-verbruik="0" data-brandstof-etiket="D"
+				data-auto-prijs="62200" data-acceleratie="0" data-vermogen-kilowatt="206" data-lease-prijs="850">
+				<td class="uitvoering-cell">
+					<a href="https://auto.hiltermannlease.nl/configurator/uitvoering/info/4262611/alfa-romeo-giulia-(4-deurs)-2.0gme-veloce-awd-aut-206-kw/"
+						class="info-link">Info</a>
+					<a href="https://auto.hiltermannlease.nl/configurator/configuratie/online-calculeren/4262611/alfa-romeo-giulia-(4-deurs)-2.0gme-veloce-awd-aut-206-kw/"
+						class="uitvoering-link">
+						<span class="merk-naam">Alfa Romeo</span>
+						<span class="model-naam">Giulia</span>
+						<span class="deuren">(4-deurs)</span>
+						<span class="oud-model"></span>
+						<span class="motor">2.0gme</span>
+						<span class="uitvoering-naam">veloce awd aut</span>
+						<span class="vermogen-kilowatt">206 kW</span>
+					</a>
+				</td>
+				<td class="prijs-cell">€ 62.200,-</td>
+				<td class="lease-prijs-cell">€ 850,-</td>
+				<td class="vergelijk-cell">
+					<label>
+                            <input type="checkbox" name="paUitvoeringIdList[]" value="4262611" />
+                            <div class="checkbox"></div>
+                        </label>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="uitvoering-group">
+	<h2>Diesel</h2>
+
+	<table>
+		<thead>
+			<tr>
+				<th class="uitvoering-cell">Uitvoering</th>
+				<th class="prijs-cell">Prijs</th>
+				<th class="lease-prijs-cell">Leaseprijs</th>
+				<th class="vergelijk-cell">Vergelijk</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="uitvoering" data-bijtellings-percentage="22" data-brandstof-etiket="B" data-transmissie=""
+				data-brandstof-code="d" data-motor="2.2d d 140 kW" data-uitvoering-soort="sprint aut"
+				data-lease-prijs="778" data-co2-uitstoot="128" data-gemiddeld-verbruik="0" data-brandstof-etiket="B"
+				data-auto-prijs="51690" data-acceleratie="0" data-vermogen-kilowatt="140" data-lease-prijs="778">
+				<td class="uitvoering-cell">
+					<a href="https://auto.hiltermannlease.nl/configurator/uitvoering/info/4261884/alfa-romeo-giulia-(4-deurs)-2.2d-sprint-aut-140-kw/"
+						class="info-link">Info</a>
+					<a href="https://auto.hiltermannlease.nl/configurator/configuratie/online-calculeren/4261884/alfa-romeo-giulia-(4-deurs)-2.2d-sprint-aut-140-kw/"
+						class="uitvoering-link">
+						<span class="merk-naam">Alfa Romeo</span>
+						<span class="model-naam">Giulia</span>
+						<span class="deuren">(4-deurs)</span>
+						<span class="oud-model"></span>
+						<span class="motor">2.2d</span>
+						<span class="uitvoering-naam">sprint aut</span>
+						<span class="vermogen-kilowatt">140 kW</span>
+					</a>
+				</td>
+				<td class="prijs-cell">€ 51.690,-</td>
+				<td class="lease-prijs-cell">€ 778,-</td>
+				<td class="vergelijk-cell">
+					<label>
+                            <input type="checkbox" name="paUitvoeringIdList[]" value="4261884" />
+                            <div class="checkbox"></div>
+                        </label>
+				</td>
+			</tr>
+			<tr class="uitvoering" data-bijtellings-percentage="22" data-brandstof-etiket="B" data-transmissie=""
+				data-brandstof-code="d" data-motor="2.2d d 140 kW" data-uitvoering-soort="ti aut" data-lease-prijs="802"
+				data-co2-uitstoot="128" data-gemiddeld-verbruik="0" data-brandstof-etiket="B" data-auto-prijs="54190"
+				data-acceleratie="0" data-vermogen-kilowatt="140" data-lease-prijs="802">
+				<td class="uitvoering-cell">
+					<a href="https://auto.hiltermannlease.nl/configurator/uitvoering/info/4261885/alfa-romeo-giulia-(4-deurs)-2.2d-ti-aut-140-kw/"
+						class="info-link">Info</a>
+					<a href="https://auto.hiltermannlease.nl/configurator/configuratie/online-calculeren/4261885/alfa-romeo-giulia-(4-deurs)-2.2d-ti-aut-140-kw/"
+						class="uitvoering-link">
+						<span class="merk-naam">Alfa Romeo</span>
+						<span class="model-naam">Giulia</span>
+						<span class="deuren">(4-deurs)</span>
+						<span class="oud-model"></span>
+						<span class="motor">2.2d</span>
+						<span class="uitvoering-naam">ti aut</span>
+						<span class="vermogen-kilowatt">140 kW</span>
+					</a>
+				</td>
+				<td class="prijs-cell">€ 54.190,-</td>
+				<td class="lease-prijs-cell">€ 802,-</td>
+				<td class="vergelijk-cell">
+					<label>
+                            <input type="checkbox" name="paUitvoeringIdList[]" value="4261885" />
+                            <div class="checkbox"></div>
+                        </label>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
